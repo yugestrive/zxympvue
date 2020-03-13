@@ -1,0 +1,8 @@
+{
+    "enablePullDownRefresh": true,
+    "usingComponents": {
+        "van-dialog": "../../../static/vant/dialog/index",
+        "mp-dialog": "../../../static/weui/dialog/dialog",
+        "mp-navigation-bar": "../../../static/weui/navigation-bar/navigation-bar"
+    }
+}

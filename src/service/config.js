@@ -1,0 +1,1 @@
+export const GLOBAL_URL = 'https://myvx.netintech.cn:4433/'

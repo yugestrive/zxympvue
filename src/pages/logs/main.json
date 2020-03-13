@@ -1,0 +1,6 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+      "mp-navigation-bar": "../../../static/weui/navigation-bar/navigation-bar"
+  }
+}
