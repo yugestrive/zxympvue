@@ -11,9 +11,6 @@ export function requestOpenId(data) {
     return new WXRequest({
         url: 'weChat/getWeChatOpenId',
         method: 'POST',
-        data,
-        headers: { 
-            'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8'
-        }
+        data
     }).send()
 }
