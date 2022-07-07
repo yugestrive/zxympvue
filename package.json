@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "js-md5": "^0.7.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mpvue": "^2.0.0",
     "vuex": "^3.0.1",
     "wxapp-api-interceptors": "^1.4.3"
